@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724370375221",
+    "project_id": "trailune-81e6c",
+    "storage_bucket": "trailune-81e6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724370375221:android:7adb0e6ba39dfc2486677c",
+        "android_client_info": {
+          "package_name": "com.sabarinathan.trailune"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCHCRxCMxNiGPijMlWfgFPKkd_ZhP94Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
