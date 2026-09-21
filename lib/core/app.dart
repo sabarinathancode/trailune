@@ -7,7 +7,7 @@ class TrailuneApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Trailune',
-      home: Scaffold(body: Center(child: Text('Trailune'))),
+      home: const Scaffold(body: Center(child: Text('Trailune'))),
     );
   }
 }
